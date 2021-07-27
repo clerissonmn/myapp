@@ -1,0 +1,16 @@
+flask
+
+# Server
+gunicorn
+
+# CLI
+click
+
+# Testes
+pytest
+pytest-flask
+flake8
+pytest-cov
+
+# Formatação
+black
